@@ -1,0 +1,10 @@
+work
+target
+node_modules/
+.project
+.classpath
+.settings/
+*.swp
+*.swo
+.DS_Store
+
